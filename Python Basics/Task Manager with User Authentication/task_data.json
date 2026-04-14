@@ -1,0 +1,21 @@
+{
+    "users": {
+        "john": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "jack": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "mike": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+    },
+    "tasks": [
+        {
+            "id": "d3c165e0a9a347fa9f56618d30b1fab3",
+            "user": "john",
+            "description": "coding test",
+            "status": "Pending"
+        },
+        {
+            "id": "85a55b82e3834e7ab8d73438d394eedc",
+            "user": "john",
+            "description": "coding test again",
+            "status": "Completed"
+        }
+    ]
+}
